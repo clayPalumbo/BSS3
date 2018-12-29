@@ -1,0 +1,133 @@
+
+.App {
+  text-align: center;
+  margin: 0px;
+}
+.centerss {
+  margin: auto;
+  background-color: white;
+  padding: 0px;
+
+}
+
+.header {
+  width: 100%;
+}
+
+.scoreHeader {
+  width: 100%;
+  background: #ffffff;
+  padding: 10px;
+}
+body {
+  background-color: lightgray;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+  font-size: 18px;
+}
+.timeResult{
+  line-height: 2;
+  position: relative;
+  }
+.score{
+  line-height: 2;
+  position: relative;
+  }
+.col-sm-3 {
+  margin: auto;
+}
+.ui.table {
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+}
+.borderTop {
+  border-top: solid .5px;
+  border-color: lightgray;
+}
+.borderLeft {
+  border-left: solid .5px;
+  border-color: lightgray;
+  z-index: 38;
+}
+.space {
+  color: #f9fafb;
+}
+th {
+  /* font-family: 'bebasregular'; */
+  text-align: center;
+  padding-left: 3px !important;
+  padding-right: 3px !important;
+  font-size: 14px;
+
+}
+td {
+  /* font-family: 'bebasregular'; */
+  padding-left: 3px !important;
+  padding-right: 3px !important;
+  font-size: 14px;
+
+}
+.content {
+  font-size: 14px;
+  color: #0561b0;
+}
+h1 {
+  /* background-color: rgb(0, 0, 0, .0); */
+    font-family: 'BebasNeueRegular'; 
+    font-weight: normal; 
+    font-size: 4vw; 
+    vertical-align: middle; 
+}
+h2 {
+  /* background-color: rgb(0, 0, 0, .0); */
+    font-family: 'BebasNeueRegular'; 
+    font-weight: normal; 
+    font-size: 3vw; 
+    vertical-align: middle; 
+}
+h3 {
+  background-color: rgb(0, 0, 0, .0);
+    font-family: 'BebasNeueRegular'; 
+    font-weight: normal; 
+    font-size: 1.75vw;
+    vertical-align: middle; 
+}
+.img2 {
+  width: 10% !important;
+}
+.img3 {
+  
+  width: 100%;
+  /* position: absolute; */
+  top: -50%;
+  /* max-height: 80px !important;
+  max-width: 80px !important; */
+  object-fit: scale-down;
+}
+.img4 {
+  width: 100%;
+  /* position: absolute; */
+  /* top: -50%; */
+  /* max-height: 80px !important;
+  max-width: 80px !important; */
+  object-fit: scale-down;
+  float: right;
+}
+.record {
+  font-size: 14px;
+}
+.border1 {
+  border-radius: 15px 0px 0px 15px;
+  background-color: #ffffff
+}
+.border2 {
+  border-radius: 0px 15px 15px 0px;
+  background-color: #ffffff
+}
+.ui.table thead tr:first-child>th:first-child {
+  border-radius:0 0 0 0
+}
+.ui.table thead tr:first-child>th:last-child { 
+  border-radius:0 0 0 0
+}
