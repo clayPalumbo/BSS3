@@ -6,9 +6,9 @@ import ScoreHeader from './components/ScoreHeader';
 import Header from './components/Header';
 import BoxScoreLeft from './components/BoxScoreLeft';
 import BoxScoreRight from './components/BoxScoreRight';
-import AdOne from './components/Ads';
-import AdTwo from './components/Ads/AdTwo';
-import AdThree from './components/Ads/AdThree';
+import { AdOne, AdTwo, AdThree } from './components/Ads';
+// import AdTwo from './components/Ads/AdTwo';
+// import AdThree from './components/Ads/AdThree';
 import Footer from './components/Footer';
 
 class App extends Component {

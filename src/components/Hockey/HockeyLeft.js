@@ -32,6 +32,7 @@ const HockeyLeft = () => (
         <Table.Cell>0</Table.Cell>
         <Table.Cell>0</Table.Cell>
       </Table.Row>
+      
       <Table.Row>
         <Table.Cell>
             <Header.Content>
